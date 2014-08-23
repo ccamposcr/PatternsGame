@@ -15,7 +15,7 @@
   </output>
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
-    <class path="..\..\..\..\..\..\flixel" />
+    <class path="C:\flixel" />
   </classpaths>
   <!-- Build options -->
   <build>
