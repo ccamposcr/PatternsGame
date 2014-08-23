@@ -6,7 +6,7 @@ package
 	 */
 	public class Robot extends Blindage {
 
-	override public getPrecio():int {
+	override public getLevelProtection():int {
 		
 		return 400;
 	}

@@ -11,8 +11,8 @@ package
 		}
 		
 		
-		override public getPrecio():int {
-			return blindage.getPrecio() + 60;
+		override public getLevelProtection():int {
+			return blindage.getLevelProtection() + 60;
 		}
 
 	

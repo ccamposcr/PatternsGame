@@ -6,7 +6,7 @@ package
 	 */
 	public class Blindage {
 
-		public function getPrecio():int {
+		public function getLevelProtection():int {
 			throw new IllegalOperationError("Abstract method:must be overridden in a subclass");
 			return null;
 		}
