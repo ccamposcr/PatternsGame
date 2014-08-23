@@ -1,4 +1,8 @@
 package  {
+	/**
+	 * ...
+	 * @author Danny Espinoza y Christian Campos
+	 */
 	import data.Sign;
 	import org.flixel.*;
 	

@@ -1,5 +1,9 @@
 package  
 {
+	/**
+	 * ...
+	 * @author Danny Espinoza y Christian Campos
+	 */
 	import org.flixel.*;
 	
 	public class GoldSpaceCoin extends Coin 

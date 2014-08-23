@@ -1,4 +1,8 @@
 package  {
+	/**
+	 * ...
+	 * @author Danny Espinoza y Christian Campos
+	 */
 	import org.flixel.*;
 	import flash.errors.IllegalOperationError;
 	

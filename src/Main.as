@@ -1,5 +1,9 @@
 package 
 {
+	/**
+	 * ...
+	 * @author Danny Espinoza y Christian Campos
+	 */
 	import org.flixel.*;
 	[SWF(width = "800", height = "570", backgroundColor = "#000000")]
 	[Frame(factoryClass = "Preloader")]

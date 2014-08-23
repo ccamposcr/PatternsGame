@@ -1,10 +1,11 @@
 package  
 {
-	import org.flixel.system.*;
 	/**
 	 * ...
-	 * @author Danny
+	 * @author Danny Espinoza y Christian Campos
 	 */
+	import org.flixel.system.*;
+	
 	public class Preloader extends FlxPreloader
 	{
 		
