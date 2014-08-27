@@ -24,7 +24,7 @@ package
 		private var highlightBox:FlxObject;
 		
 		// Player 
-		private var player:Player;
+		private var player:RobotG1;
 		//Simple Factory
 		private var factory:SimpleObstaculesFactory;
 		//Obstaculo
@@ -65,7 +65,7 @@ package
 			
 			highlightBox = new FlxObject(0, 0, TILE_WIDTH, TILE_HEIGHT);
 			
-			player = new Player(100, 100);
+			player = new Robot(100, 100);
 			weapon = new FlxWeapon("bullet", player, "x", "y");
 			weapon.makeImageBullet(50, Assets.shoot, 34);
 			weapon.setBulletDirection(FlxWeapon.BULLET_UP, 200);
